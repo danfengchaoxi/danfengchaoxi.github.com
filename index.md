@@ -3,7 +3,7 @@ layout: page
 title: Blog
 tagline: dfchx
 ---
-
+{% include JB/setup %}
 [my github] (https://github.com/danfengchaoxi)
 
 ## To-Do
