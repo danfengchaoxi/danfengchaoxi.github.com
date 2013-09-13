@@ -1,4 +1,13 @@
-Linux就是一个操作系统最底层的核心及其提供的核心工具。
-Linux distributions 的组成含有:【Linux Kernel + Free Software +Documentations(Tools) + 可完全安装的程序】所制成的一套完整的系统。 distributions 主要分为两大系统,一种是使用 RPM 方式安装软件的系统，包括 Red Hat, Fedora, SuSE 等都是这类; 一种则是使用 Debian 的dpkg方式安装软件的系统,包括 Debian, Ubuntu, B2D 等等。
-？多任务、多使用者
-Linux环境下的图形接口：KDE、GNOME
+---
+layout: page
+title: Linux是什么
+tagline: 小记
+---
+{% include JB/setup %}
+
+<ul>
+    <li>Linux就是一个操作系统最底层的核心及其提供的核心工具。</li>
+    <li>Linux distributions 的组成含有:【Linux Kernel + Free Software +Documentations(Tools) + 可完全安装的程序】所制成的一套完整的系统。 distributions 主要分为两大系统,一种是使用 RPM 方式安装软件的系统，包括 Red Hat, Fedora, SuSE 等都是这类; 一种则是使用 Debian 的dpkg方式安装软件的系统,包括 Debian, Ubuntu, B2D 等等。</li>
+    <li>？多任务、多使用者</li>
+    <li>Linux环境下的图形接口：KDE、GNOME</li>
+</ul>
