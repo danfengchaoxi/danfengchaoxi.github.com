@@ -23,7 +23,8 @@ When specifying a collection of data, use abstract classes for datatypes and ext
       	Num predecessor;
       	OneMoreThan(Num _p){
 	     predecessor = _p;
-	}};
+	}
+};
 
    
    按照以上定义，理解：
@@ -32,3 +33,4 @@ When specifying a collection of data, use abstract classes for datatypes and ext
 	         new OneMoreThan(
 		       new OneMoreThan(
 			         new Zero()))));
+P13-44存在疑问
