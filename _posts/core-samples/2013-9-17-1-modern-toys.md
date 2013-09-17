@@ -2,6 +2,8 @@ layout: page
 title: 1 modern toys
 tagline: A Little Java A Few Patterns
 
+{% include JB/setup %}
+
 ##Keyword
 
 type, abstract, class, extends
