@@ -1,8 +1,9 @@
 ---
-layout: post
-category : lessons
-tagline: "a little java a few patterns"
+layout: page
+title: 2 methods to our madness
+tagline: a little java a few patterns
 ---
+
 {% include JB/setup %}
 
 ## Keyword
