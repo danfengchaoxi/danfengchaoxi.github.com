@@ -1,9 +1,8 @@
 ---
-layout:page
-title:5 objects are people too
-tagline:a little java, a few patterns
+layout: page
+title: 5 objects are people too
+tagline: a little java, a few patterns
 ---
-
 {% include JB/setup %}
 
 ## Question
