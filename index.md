@@ -9,19 +9,12 @@ tagline: dfchx
 
 ## To-Do
 
-<ul>
-    <li>《鸟哥的Linux私房菜 基础学习篇(第三版)》</li>
-    <li>《模式设计》</li>
-</ul>
+出问题啦！
 
 ## Doing
 
-<ul>
-    <li>Linux是什么</li>
-    <li>abstract factory</li>
-</ul>
+解决ing。
 
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
